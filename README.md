@@ -45,13 +45,13 @@ Telegram,Snapchat,Signal,FaceTime,Discord,Viber,Google Mete,WahatsApp
 Youtube,Twitch,Anime go, и прочие аниме...
 
 Играть
-Steam,Battlefield,Roblox,Ubisoft
+Steam,Battlefield,Roblox,Ubisoft,Battleye,Riot,Electronicarts,EpicGames,ApexLegends,Battlenet
 
 Маинкрафт
 СurseForge,Modrinth
 
 Прочие 
-Cloudflare,Instagram,SpeedTest,Spotify
+Cloudflare,Instagram,SpeedTest,Spotify,Akamai,Google,FaceBook,Amazon
 
 # Прочий функционал
 
