@@ -1,0 +1,9 @@
+*.signal.org
+signal.org
+signal.art
+signal.group
+signal.link
+signal.me
+signal.tube
+turn3.voip.signal.org
+sfu.voip.signal.org

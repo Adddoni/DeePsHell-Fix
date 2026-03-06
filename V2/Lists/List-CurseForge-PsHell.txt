@@ -1,0 +1,5 @@
+www.curseforge.com
+legacy.curseforge.com
+legacy-curseforge.com
+authors.curseforge.com
+mod.curseforge.com

@@ -1,0 +1,4 @@
+modrinth.com
+api.modrinth.com
+staging-api.modrinth.com
+modrinth.gg

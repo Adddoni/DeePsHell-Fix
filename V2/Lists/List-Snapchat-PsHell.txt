@@ -1,0 +1,10 @@
+*.snapchat.com
+*.sc-cdn.net
+*.appspot.com
+feelinsonice-hrd.appspot.com
+*.googleapis.com
+*.gcp.gvt2.com
+*.crashlytics.com
+*.amplitude.com
+*.branch.io
+*.ads.snapchat.com

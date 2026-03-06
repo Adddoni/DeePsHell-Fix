@@ -1,0 +1,9 @@
+*.apple.com
+*.icloud.com
+*.facetime.apple.com
+*.push.apple.com
+*.mesu.apple.com
+*.gspe1-ssl.ls.apple.com
+*.apple-cloudkit.com
+*.cdn-apple.com
+*.apple-dns.net
