@@ -17,7 +17,7 @@ Steam, Battlefield, Roblox, Ubisoft, BattlEye, Riot, Electronic Arts, Epic Games
 CurseForge, Modrinth.
 
 Прочие
-Cloudflare, Instagram, Speedtest, Spotify, Akamai, Google, Facebook, Amazon.
+Cloudflare, Instagram, Speedtest, Spotify, Akamai, Google, Facebook, Amazon, GitHub.
 
 ## Прочий функционал
 Очистка — это функционал, встроенный в GENERAL, который просто чистит папку Temp, немного не всё, что там есть, а то, что может повлиять на что-либо.
