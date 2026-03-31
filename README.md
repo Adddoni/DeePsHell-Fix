@@ -48,7 +48,7 @@ IP Youtube - переключение между стандартным Ip-Set-Y
 https://github.com/Adddoni/DeePsHell/releases
 
 ## Изначально
-Это был форк https://github.com/Flowseal/zapret-discord-youtube, но он стал, как я думаю, больше чем простой форк Zapret.
+Это был форк https://github.com/Flowseal/zapret-discord-youtube,https://github.com/bol-van/zapret, но он стал, как я думаю, больше чем простой форк Zapret.
 
 # Версия v1
 
