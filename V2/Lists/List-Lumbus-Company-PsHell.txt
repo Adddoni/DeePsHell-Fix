@@ -1,0 +1,5 @@
+download.limbuscompanycdn.org
+downloadcommon.limbuscompanycdn.org
+downloadfmod.limbuscompanycdn.org
+www.limbuscompanyapi.com
+presence.limbuscompanyapi.com

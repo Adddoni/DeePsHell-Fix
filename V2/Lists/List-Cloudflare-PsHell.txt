@@ -130,7 +130,6 @@ trycloudflare.com
 videodelivery.net
 warp.plus
 workers.dev
-
 wsrv.nl
 as13335.net
 cfdata-staging.org
@@ -162,3 +161,4 @@ cloudflarecn.net
 cloudflareinsights-cn.com
 cloudflarestoragegw.com
 static-cloudflare.top
+cp.cloudflare.com
