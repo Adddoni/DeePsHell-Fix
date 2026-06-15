@@ -1,0 +1,103 @@
+MIT License
+
+Copyright© 2016-2026 bol-van
+Copyright© 2024-2026 Flowseal
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+This repository contains binary files originating from the project by bol-van,  
+available at: https://github.com/bol-van/zapret/ (licensed under the MIT License).
+
+This repository also includes and depends on WinDivert  
+(https://github.com/basil00/WinDivert), which is licensed under your choice of:
+
+1. The GNU Lesser General Public License (LGPL) Version 3, or  
+2. The GNU General Public License (GPL) Version 2.
+
+Binary distributions of WinDivert are included in this project as-is, without modification.  
+The corresponding source code and license terms for WinDivert are available at  
+https://github.com/basil00/WinDivert.
+
+---
+
+To comply with the licenses of these projects:
+
+1. The original copyright notices and licenses (above) are retained.  
+2. The use of WinDivert in this project is governed by its licensing terms (LGPLv3/GPLv2).  
+3. This repository provides only binary files and does not include the source code of  
+   the project by bol-van or modifications to WinDivert.  
+   
+The conclusion is that this fork can exist without any problems, but it must have this document in itself.
+It also says here that forks like us are not responsible for the authors, but we carry it ourselves.
+For this reason, remember to tell us about the problems, not Flowseal or bol-van, but specifically Adddoni
+
+Ру версия/Ru versin
+
+Лицензия Массачусетского технологического института
+
+Авторское право© 2016-2026 гг. bol-van
+Авторское право© 2024-2026 гг. Flowseal
+
+Настоящим предоставляется бесплатное разрешение любому лицу, получающему копию
+данного программного обеспечения и связанных с ним файлов документации ("Программное обеспечение"), на работу
+с Программным обеспечением без ограничений, включая, без ограничений, права
+на использование, копирование, модификацию, объединение, публикацию, распространение, сублицензирование и/или продавать
+копии Программного обеспечения и разрешать лицам, которым предоставляется Программное
+обеспечение, делать это при соблюдении следующих условий:
+
+Вышеуказанное уведомление об авторских правах и это уведомление о разрешении должны быть включены во все
+копии или существенные части Программного обеспечения.
+
+ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ ПРЕДОСТАВЛЯЕТСЯ "КАК ЕСТЬ", БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ, ЯВНЫХ ИЛИ
+ПОДРАЗУМЕВАЕМЫХ, ВКЛЮЧАЯ, НО НЕ ОГРАНИЧИВАЯСЬ, ГАРАНТИЯМИ ТОВАРНОЙ ПРИГОДНОСТИ,
+ПРИГОДНОСТИ ДЛЯ ОПРЕДЕЛЕННОЙ ЦЕЛИ И НЕНАРУШЕНИЯ АВТОРСКИХ ПРАВ. НИ В КОЕМ СЛУЧАЕ
+АВТОРЫ ИЛИ ПРАВООБЛАДАТЕЛИ НЕ НЕСУТ ОТВЕТСТВЕННОСТИ ЗА КАКИЕ-ЛИБО ПРЕТЕНЗИИ, УЩЕРБ ИЛИ ДРУГИЕ
+ОТВЕТСТВЕННОСТЬ, БУДЬ ТО В СВЯЗИ С ДЕЙСТВИЕМ ПО ДОГОВОРУ, ГРАЖДАНСКИМ ПРАВОНАРУШЕНИЕМ ИЛИ ИНЫМ ОБРАЗОМ, ВОЗНИКАЮЩАЯ В РЕЗУЛЬТАТЕ
+ИСПОЛЬЗОВАНИЯ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ ИЛИ В СВЯЗИ С НИМ, А ТАКЖЕ В СВЯЗИ С ДРУГИМИ ОПЕРАЦИЯМИ С
+ПРОГРАММНЫМ ОБЕСПЕЧЕНИЕМ.
+
+---
+
+Этот репозиторий содержит двоичные файлы, созданные в рамках проекта bol-van,  
+доступно по адресу: https://github.com/bol-van/zapret/ (лицензируется по лицензии MIT).
+
+Этот репозиторий также включает Windivert'а и зависит от него  
+(https://github.com/basil00/WinDivert), который предоставляется под выбранной вами лицензией:
+
+1. GNU Lesser General Public License (LGPL) версии 3 или  
+2. GNU General Public License (GPL) версии 2.
+
+Бинарные дистрибутивы Windivert'а включены в этот проект как есть, без изменений.  
+Соответствующий исходный код и условия лицензии для Windivert'а доступны по адресу
+https://github.com/basil00/WinDivert.
+
+---
+
+Для соблюдения лицензий этих проектов:
+
+1. Первоначальные уведомления об авторских правах и лицензии (приведенные выше) сохраняются.  
+2. Использование Windivertв этом проекте регулируется условиями лицензирования (LGPLv3/GPLv2).  
+3. Этот репозиторий предоставляет только двоичные файлы и не содержит исходный код  
+   проекта от bol-van или модификаций Windivertа.
+   
+Заключение такое данный fork может сушествовать без некаких проблем, но должен иметь данный документ в себе.
+Так же тут сказано, что такие forks как мы не несём ответсвеность за авторов, а несём её токо сами.
+По этомой причине запомните пешите нам о проблемах а не Flowseal или же bol-van, а конкретно Adddoni
